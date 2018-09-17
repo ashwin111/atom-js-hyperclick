@@ -1,7 +1,7 @@
 {
   "name": "atom-js-hyperclick",
   "main": "./lib/js-hyperclick",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A hyperclick provider that lets you jump to where variables are defined.",
   "keywords": [],
   "repository": "https://github.com/huangjinlin/atom-js-hyperclick",
