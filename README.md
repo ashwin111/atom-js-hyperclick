@@ -1,7 +1,6 @@
 <!--not to html-->
-# atom-vue-hyperclick
-
-a atom package for vue hyperclick
+# atom-js-hyperclick
+inspire from [js-hyperclick](https://atom.io/packages/js-hyperclick),identify webpack alias, and '@'especially
 
 ## features
 
@@ -9,7 +8,7 @@ a atom package for vue hyperclick
 ## installation
 
 ``` bash
-apm install atom-path-to-file
+apm install atom-js-hyperclick
 ```
 ## create
 ``` bash
